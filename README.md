@@ -1,2 +1,2 @@
 # TasOyunu
-A* algoritması kullanılarak yazılmış bir ödev
+A* algoritması kullanılarak kodlandı 
